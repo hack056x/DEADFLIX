@@ -13,7 +13,9 @@ paso de como instalar:
 
 <img width="333" height="528" alt="image" src="https://github.com/user-attachments/assets/3f8102bb-968e-47a8-87fa-970b06aa09a8" />
 
+4to. a difrusta de netflix se va redirecionar la pagina y tendra netflix gratis
+
+<img width="1273" height="590" alt="image" src="https://github.com/user-attachments/assets/8d123f48-a45b-4380-9405-a601d71bfd5d" />
 
 
-
-
+NOTA IMPORTANTE: Esta extension no soy el creador, asi que todos el credito para by Hydra_x001
