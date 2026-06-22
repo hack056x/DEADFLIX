@@ -9,6 +9,11 @@ paso de como instalar:
 
 <img width="339" height="527" alt="image" src="https://github.com/user-attachments/assets/e6e0f6b0-df99-43bf-bed3-a8a5c3977d09" />
 
+3ero. debe seleciona un plan y dale a conectar asi como esta imagen
+
+<img width="333" height="528" alt="image" src="https://github.com/user-attachments/assets/3f8102bb-968e-47a8-87fa-970b06aa09a8" />
+
+
 
 
 
